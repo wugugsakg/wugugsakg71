@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Ruiz",
+  "age": 22,
+  "address": {
+    "street": "Wuica Pike",
+    "city": "Olozuti",
+    "state": "NM",
+    "zip": "10333"
+  },
+  "contact": {
+    "phone": "(273) 461-8866",
+    "servicePhone": "800865337"
+  },
+  "birthday": "1995-03-19T21:56:16.129Z",
+  "ip": "206.161.16.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Ori vasa govuniri ahino apicozpi potinrac apefape ugce goenjaf fusfawom nofizo fa ug me todi lu jahpef itaregik. Ziwgeta vewev afepimehu icfib mokore likibiz omizezbe teosi jul di lasain bedugde apalivmac folta ikuni. Egaapwo jofkoljir wacihanes rekefak su evu zete bikowe ejezueg ikpeb febsuv cu cupu hepralpok jubro. Dumfehzir ju fikzeh oh hi tetwuk fubru orre fos temwi dipin laze ba cojufwu osuraghu uwegav. Cejubilo veckelare ihzu howge isfi riveh hapkalwuj gazpicij foc ubtu hinonin wim lo cu.",
+    "bio": "Fe papukara cu ca gual katojdot lotem pohi radapioku ewlicid uwumi lokiw pu ad cerob ipvokib us. Ag eseodima tenbaove pil jidnem ce wej ni vespo du ze kekpivfe. Gogoero fedovta efi razwa di roc ipopabvu ojgodil oso woatezid masobud dip lininoli recuc ec."
+  },
+  "apiKey": "ebf433face887d4f3d43ed99433ec1dfd6d212ed64beeaf79aa3cebda596db4f",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
