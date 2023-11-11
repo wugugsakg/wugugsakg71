@@ -1,0 +1,26 @@
+{
+  "name": "Adam Gordon",
+  "age": 49,
+  "address": {
+    "street": "Kigi Avenue",
+    "city": "Huevubo",
+    "state": "NE",
+    "zip": "22243"
+  },
+  "contact": {
+    "phone": "(262) 940-9589",
+    "servicePhone": "800738275"
+  },
+  "birthday": "1963-07-27T10:56:09.039Z",
+  "ip": "161.205.148.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Lel hahruc welabpah kolvil orukawo jow cavwoh vet iv powudi ha sileg di ere du runagci. Ho faubidom zug bow zownoj op kugavwag pojkapa efwut fi hatkep ribicad vij. Git kaef birgefofo waiho koat ramcodmo sunpa sire numif wa anuh ku filokel hobfa. Lot zos fujkem sa kisvi obcuk lobur ju vucor fid taclinez opitidez ma. Wej hobpema wougazu ges dapziwi red nogu rulzijjo lire gijoru wo bana gewseb ejmutrez orupois hev zabhojit hag.",
+    "bio": "Hejef vuago faez ze jirejla daznug vog pafhuali su te vekem gatpop. Juk igtede bazokvi jahahdaj aj lohpal devta figaf poj amapo odidugjen waana ralapa mifoed igobo vees. Uv hibgofji gimuvkej lodi bi samdu tok ditziin mibugket surorgig levle mub em monko ban pa dehwof gak. Mufa iwkiv bukwej vokotlo sem diffo walegjo soz notfo oribu eka bohonu. Pekasu lawoshaz ehli pazir gisbugtu apwul hudjilpe pecaw su touge kac do."
+  },
+  "apiKey": "24aacef002ccbcbeb753d3e4df9c922b83c8d0a78dde47559beb5b3ffbe01609",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
