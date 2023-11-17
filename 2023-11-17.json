@@ -1,0 +1,26 @@
+{
+  "name": "Fred Fernandez",
+  "age": 50,
+  "address": {
+    "street": "Rore Street",
+    "city": "Jekdazuvu",
+    "state": "MT",
+    "zip": "33214"
+  },
+  "contact": {
+    "phone": "(209) 531-4667",
+    "servicePhone": "800999153"
+  },
+  "birthday": "1982-05-19T01:55:36.192Z",
+  "ip": "26.54.61.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Foatela efara idi goj paad dagakje ic dozmokat uk higauc sib faku sajobbud du araver cilisev. Punufo mowgude giwen fip piivo mavneubu gov ritsav hogwejonu vivsas rumovto wuercor ticdun fomen se faw igu. Tavari zeb iwifaji giciva kop tajoho uredu jennedcis doc diuwki zo se datoji fi so lebmundo dafogu. Ohafe rapmef dub zo erofis caebinis tokpethi lan cabuka ohmi erizimo waew elo voufewan ivofiodo siw ijja di. Su bu ahtuf cilacwa isikoc pazrues abkoog rorwih goszufu gewnudif pijisis ocokeva to redjukwu il bokel. Halehal suknas we tehi fek novjona wa hepowa loc kuw ilemamo ner bubizzid idu eri. Ewjawhub ni tu ol reijziv bunitav uweuvocan jafdofe az desa amgunez cevkineg.",
+    "bio": "Idige al vuiwu ureocizu uh eru werigugo zur kavhun oku osumureh ni unu vewofaz zir lazme sobatul coocaman. Beroun dadroc erobauje wu gicizhan ivubujtum sa ji ajworji zurbohilo nes vazduh tius misdavu ho urwace bul femukos. Rej ecsez cule elizus owaic pila gi udiijubaz pupafuwob udakon omcokok pa cul lor domo imoac. Ufene kip fiuper efazala bo kubdon rep negoije fufsu se vovfeal owako. Ler ublodwe arrof cengawge heg zufpilce rumme cuhuv us ogabehez nu wohov uwbes weiba me tasice ju."
+  },
+  "apiKey": "7d55f928e2d6b5eae243c88d35af64bb331576b669319de630edac6e246f664a",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
