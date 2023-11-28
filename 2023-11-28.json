@@ -1,0 +1,26 @@
+{
+  "name": "Harvey Byrd",
+  "age": 65,
+  "address": {
+    "street": "Mikek Center",
+    "city": "Ifomousu",
+    "state": "IL",
+    "zip": "45747"
+  },
+  "contact": {
+    "phone": "(212) 665-1781",
+    "servicePhone": "800112857"
+  },
+  "birthday": "2002-05-25T13:16:44.373Z",
+  "ip": "196.61.111.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Juczufro uh ajgomdo rus huja sazodal fincu jojot jejte pejo pesda otvi adula fo vec luggajiv. Ol cofawtol uvozo ikonidme laduhev davper dekilvo zagos egooro gu firsijo zuubiguw cuvusal rebbuz gah hota nu utsin. Ad bewa nociwu cabuc kifezuek siuloful piik itedotu bezpabut suotved ladu ti voig rod. Nudcomaz bojoon citi rized sucade zabu niv meur ico gokuki vumgufce ciogacez.",
+    "bio": "Kub pumziper fi cakelmem pufakukin bestan af rodopves makadzok wu miso zukahod nengudo ahwoh. Emzi av nik ur ca acesovwoz jabbozti eptot na wamoj lu jid. Wuhetda faola akpal esiij ni gagammed wotjuzeg agopuman be rakjocze silevobe luz."
+  },
+  "apiKey": "1c9cffd8afc1d9ca9657563b023acf78cca2f3ce696b1233e10b35986abeb6ba",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
