@@ -1,0 +1,26 @@
+{
+  "name": "Richard Paul",
+  "age": 20,
+  "address": {
+    "street": "Tuco Junction",
+    "city": "Enjiprak",
+    "state": "UT",
+    "zip": "76944"
+  },
+  "contact": {
+    "phone": "(284) 766-3584",
+    "servicePhone": "800528241"
+  },
+  "birthday": "2000-05-02T04:59:55.333Z",
+  "ip": "189.197.23.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihzizdog osbigo ez hid et gous ezeeno lil gussumen dos tusicpat jotab ridaz nonvum tofwutka casnanzaw. Pemhoove ijsef ga ubojentof kisaha tufdorzi gobit ne jombo rejgohhaz vu sigra egoti pucbojfos suw. Fofuc uhe momota upufi bum jedume patu rugje ulveplu voza duhjohego kezo vezudmi. Odsuh mug okidop ciiw vofpa suuw se ji wioznet ono bozid milse jahabi. Rosav popa dalicih mikifeane olsicow fakih bu sobec vepahiv bepmerotu piba hagon.",
+    "bio": "Napcu pitzi tob vocva zosgi aj ofhalbim zovez noti te he womedem siduhu. Surab jaw nuvadad veladiv otsu wid le zuh gunheje hawcuota hafufjo hi. Ip holifu deuvo giv bigu foecpev ta tiv jin peg fos pewag is pampi. Zuchas jumco fubofaz ju zaveka epien geh ag kafo ujisudrop dem loupnul hiknono. Hubil feci umkive kumipan natvoku at fuz dablak nuzbedeh wowsurov afemiw rume ned nam wez epitu."
+  },
+  "apiKey": "2660e1d7f0e2c50cac40e097a7c9af151cf8410ee2e9f1555d3deff6e20f1cf6",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
