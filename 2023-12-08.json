@@ -1,0 +1,26 @@
+{
+  "name": "John Moran",
+  "age": 34,
+  "address": {
+    "street": "Keje Highway",
+    "city": "Ketulin",
+    "state": "DC",
+    "zip": "67083"
+  },
+  "contact": {
+    "phone": "(323) 347-4860",
+    "servicePhone": "800593372"
+  },
+  "birthday": "1960-12-04T04:12:13.738Z",
+  "ip": "197.250.118.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Cagwagoh tel hidri nik pahfi vilmekti ukmi gal georekat sin bivekafu hiefi pilurtig magohje. Weavu parob vuldu mig binmurwav putgana hek terepuv fo rohbeko ornetfa sovbon vucujeg ereij. Luwpu pafdighi su digzam guzpec ji av le im dejmimo gotjuvawa dahhe. Sebsam if rahve pesufu pif etasu hadwos zubuz faglak de cikdijon rutavu oh. Tabwonu ca ji lip misha solipguf du berteb cihoaf abo la ridodati. Konuw koj ubiro ro fizobit mew toz hectos wevure koiticu ninronja tepo ceuwgej seg owo.",
+    "bio": "Tivuaj jigmana in ruok ko eke gov zu rev nete erofidfuk goge. Pucjiszo dufoje eljunuj ovniku vo fole wocizso zekpiod ub tujbuhud zej ossi ate gehi vok. Fi co nebzoel jebdep tekemma heoj ih afkil ce felato ujaowe luodu ecdivwev paofo puso ova. Fuvozo legavmi fun ca gacwus fankudme bu obo hi karmiura adu cinejune dojevza katte."
+  },
+  "apiKey": "c9c7d03c334925951909af252d5d795d8963ec0452891357f28b5d215dc83c14",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
