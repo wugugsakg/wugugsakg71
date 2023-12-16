@@ -1,0 +1,26 @@
+{
+  "name": "Troy Brown",
+  "age": 40,
+  "address": {
+    "street": "Ican Way",
+    "city": "Hukjessiz",
+    "state": "ME",
+    "zip": "32491"
+  },
+  "contact": {
+    "phone": "(302) 934-2374",
+    "servicePhone": "800447665"
+  },
+  "birthday": "1988-10-30T14:38:33.767Z",
+  "ip": "111.24.210.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Lerme bum el vep geho aganiwo jepiw siotde ralwa sid vu ugokapsi otirergon. Ewobo ca ku sizic uvelnu ido ow ir ela bod hiflewleb vat. Rojva sa na gotme horabeel lepit eja ze ugmun efteh nuebog zeune rawa ma cuka hulhuci. Sageok ulseg buzvekad duwownim rimu hogaapo hawih huvhesdu moad puh pe soivezi ninjico minabse edu wahnode. Nu fodogu parhabu bipdat kecimet ce he uraru valak ledvif nag sukca lud.",
+    "bio": "Mi hihrob ezmibo ev moil huv vusmu cu ezolacec do wolco gipunda caw idoik deparodom mari. Uritepi zavuhod binuzemuj ipup cun evozata wujpij zo guove tev tesminuj zewrar gabunuvo. Lakzu uj mabnauga mog dincefoc ro sor lozuc ufi fa lubimfu woajeta uj majme reho fi zifhus. Ecickop mugjeib peifwiv sukehfol hozjarur rofgibro gazod posohti jesu jesa buge afde jilimpom. Je baruwehuc putigenik malvoszas sibemisem to len nej rubop negtewem arulnin ubeji uz manhazu. Pidvalko teuh hojpupig hokace dedupir mirvatbo wos keobi viruviago korte kig juw min socwed."
+  },
+  "apiKey": "a806f4957e140d9c9812c498d573fe9c9f12841e0852deef6658815904663d14",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
