@@ -1,0 +1,26 @@
+{
+  "name": "Eva Roberts",
+  "age": 38,
+  "address": {
+    "street": "Fucwu Square",
+    "city": "Cemasem",
+    "state": "IL",
+    "zip": "31987"
+  },
+  "contact": {
+    "phone": "(627) 842-8713",
+    "servicePhone": "800455148"
+  },
+  "birthday": "1975-12-07T16:02:00.355Z",
+  "ip": "120.125.92.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Bausobug hic ozna uhu vi cerefu fipahlon ave dazel miv sohbeblup apbaz. Coglidzuj elja rawe kaehe kozaz wup toizzoh be evzu puhlevla ce haf ilawit nodpel. Kiun fuppafke gagi emwiddon pafzi readera ehelibbah olu pe nafugas ic apa su ududoc leije zo. Moc ogofav jeg kableze zis juta oke kase ad bifes do iju nibpubveh vapha.",
+    "bio": "Givrukher im vaomakit dic voas gohas ilow el oratikmu ditbak ju zioj re ti gipeca ruitdij. Eb kalgukgag nafri neizrez naw rijob uj livdok walruho ahe subonem vobi. Zo heov nues mewuuzu sejgiru heknig fuwah wibnope ep lapofewu vawet ge cakejovip fecnaiz."
+  },
+  "apiKey": "56ea6aac2b37b3977b9d60db3948b45ecb9ec18adf480c12f27032484a9db84a",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
