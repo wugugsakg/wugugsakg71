@@ -1,0 +1,26 @@
+{
+  "name": "Luis Dunn",
+  "age": 24,
+  "address": {
+    "street": "Cebdoc Mill",
+    "city": "Toziksu",
+    "state": "MN",
+    "zip": "54502"
+  },
+  "contact": {
+    "phone": "(835) 213-2049",
+    "servicePhone": "800172417"
+  },
+  "birthday": "1972-10-11T01:49:36.195Z",
+  "ip": "113.100.200.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Suksec lot bufeb vebok hawif hek jutuna bew gur akusi ladunki uwusesoz rozuheni ce. Nov tih wowiwfih ijvefu jaglo wilotab nod jok duisinaz gaamasis dip idga lazic cinifsi sajuv rirzihi soje nefi. Abbe lifejo suwka agpoh gahim vuli guszipwa nopat bowgiwuw gu likawoh vegnezte. Saha lihehor lispin ajaokzo fub ublo ji vu ongoci ehoizise uboadane asibe pibigpil.",
+    "bio": "Senjat vu munuv ubado ota cesev visevfoc kodewu sun wule foju ubig egetim aw agiatusi po. Kanohi zoccudke lurosebe wesij gobulo ziehejaf nilwonrek rewdis bof wiehicag lesvig rupew jiaze amumog. Dem funpa coscama meeli pasro owconco vabpipod uczikev noah hagetin iz wu ra tag motezufu guotu."
+  },
+  "apiKey": "e6103839d330637d6cc22f8558a4463b753756593d2a01af67843a8ddc1c38e6",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
