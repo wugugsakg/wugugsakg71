@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Ingram",
+  "age": 57,
+  "address": {
+    "street": "Cabge Turnpike",
+    "city": "Losvosde",
+    "state": "OR",
+    "zip": "38817"
+  },
+  "contact": {
+    "phone": "(610) 312-1696",
+    "servicePhone": "800835747"
+  },
+  "birthday": "1968-11-06T12:21:04.079Z",
+  "ip": "123.148.141.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Jo pop rum juwuzize zobce furetna kolse idohujel dob cine logkedko befmog. Iluikoza noncuzfa fuhrav ebucagfo ej uj tathuv ze olenu cilga ichid miwu. Azebog nihziub pobve riageuba jomowmef efi cismewug jud ca hil biombe wa poslakib cuer mesolfu ev.",
+    "bio": "Nuusi ape rak jesbawo jatodmug ozamiz juk mijso agumime tav jon fif. Hermozovu supotaw to anezuf duf mi joragjuv luc navawce palpori su lelmohbum roaje. Va ukiritob cunzakew zin kefojotu cugihum weniza giglutpit um pihahoz davik jihelun norajgip ile utaop agozuskup lateju."
+  },
+  "apiKey": "1f90fec61d39d6a0a282e64831cb5e7a39bc1d56a83fa8880222b7d8366764b6",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
