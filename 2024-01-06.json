@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Pratt",
+  "age": 31,
+  "address": {
+    "street": "Corap Heights",
+    "city": "Wotenemuw",
+    "state": "LA",
+    "zip": "30662"
+  },
+  "contact": {
+    "phone": "(945) 807-9960",
+    "servicePhone": "800576134"
+  },
+  "birthday": "1990-01-12T06:33:01.693Z",
+  "ip": "38.202.122.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ked rois to weza pabidlug defo uhi fib ju etitop ihir bi petisa rugo di wujo. Ditcatguf tilhu gi jactesiv su evirate avene cuoni ip nednos rowo buhajifi ruwin to baduguc. Si naz zo pippi wudti imujil sitseb ur raninhow gadi horciwez vavfo vo gubicoub rigem jakhuruso. Kevanag tib rihep la mazap pugzeal rigpozco kec vefedpo ku pa le jar fa afuvulbo.",
+    "bio": "Cufute zulod gil luovce umci vadjug fifum per rune othan zautzol funzaro gedmowe giwasip eni lu hekpobe. In cejow gomgib tejbuh wu efofugi la sebobirok sa nujvo gukmefguz zecvepbu cakwin acijhi isocu. Do pubo zime mewan abugo co buzribub amrenma awtig udtoj mivolu binuma."
+  },
+  "apiKey": "5909f8236286f0c58fe17f60e14023bf3a87c9da6cd003f228d24f1204a99c64",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
