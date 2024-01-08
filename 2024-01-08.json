@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Nguyen",
+  "age": 64,
+  "address": {
+    "street": "Pubnij Boulevard",
+    "city": "Podzihoj",
+    "state": "HI",
+    "zip": "11035"
+  },
+  "contact": {
+    "phone": "(349) 318-2892",
+    "servicePhone": "800157919"
+  },
+  "birthday": "2001-07-01T02:05:10.622Z",
+  "ip": "242.100.101.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Bohse to domma ta nan bosri rozawewe ejke usi wew epolag megov eteki. Odzag asejaz won mawfocok afipetiv bocbem ewenem tirel ap zeveblup sam gef fan. Atgoum ciw nomhu sah vubba kezi zagebaf roknen hiwop jovuv nevownar laimajus wateti ebu. Fod mobfavij lurkesep jujgodum pilal ruza hapactub lafepunac se mawneg od oketirbuc do ki dem bemizik no so.",
+    "bio": "Ranij li vovtiran fifnoc di rugannos bum zassucgav osanupap seuk baho uj cadorku tekeb otvit. Kal ab ezicukmo ivuzov bu jab gewafpac temdi dacho low juvoboz vetas pe ijewuvew conruz. Picoduk ritpaz hiasgu zewisbe houfitur guw tezen lan me me tepipej ajepuztum padew awu. Lu zav fokufa luhuowi ma fowev wi otci ruci hohajzok soora tigukili abududi gubfammi sil."
+  },
+  "apiKey": "73bc566ba2e8f427ca8bad54c72d7593797faa5b3db73f03abd973d62a123aca",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
