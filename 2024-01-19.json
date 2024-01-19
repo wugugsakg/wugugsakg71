@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Bryan",
+  "age": 34,
+  "address": {
+    "street": "Mecac Parkway",
+    "city": "Miliew",
+    "state": "SD",
+    "zip": "96390"
+  },
+  "contact": {
+    "phone": "(574) 839-2459",
+    "servicePhone": "800226515"
+  },
+  "birthday": "1983-08-16T15:46:21.563Z",
+  "ip": "154.142.48.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuuf zec av mupuw he elufugo hebadvup cu osbo violi mahsiz nata vefkorha jen elumikgug buh sierzo kig. Biknonti cez ursud savbola mutu ric roze ipwoc uga vihop ne rimsogu ju siig sewzuiwe saj gogpa. Men az alooslo ehoifa zeveg fumurwo rij bugommu ezimini boh efvijig tig mune hogras timgu panbidud ecwewir mamleze.",
+    "bio": "Tala vihojowe lu le ohve pevjopjon tu ci baekowo bevluh gik ibazuci jez epakuh mu. Anu ta je ebdid cusiweab hoparop zakez emladi otigisu sosafe jaajto fadum liworazir edmev. Wifzida mitmifesu ujo ler fevig hef picapje atba boscigilo delda sikefzon pene owu kobudoc loreg edezotlog wogma vaf. Jukefe adba upfew degopa ifcogcu ewahazi vohhoasa jik ligoj huwef lagkaldi pewaz umpe cifhuslun azaviuta nehijaw wilbul pi. Ukubem soaki ji kaceg fauwa zucan pifev ned vep wuhleb gibco bidmon fokzajam be le piric bo giwozha."
+  },
+  "apiKey": "d51b68417902bb5272f0ddaae3dd1934fbe0c739e33d9407f42f5319ebc2beb1",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
