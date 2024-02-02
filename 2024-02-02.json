@@ -1,0 +1,26 @@
+{
+  "name": "Sara Clark",
+  "age": 33,
+  "address": {
+    "street": "Ajun Highway",
+    "city": "Irunoato",
+    "state": "AR",
+    "zip": "50523"
+  },
+  "contact": {
+    "phone": "(667) 598-3192",
+    "servicePhone": "800228572"
+  },
+  "birthday": "1963-07-04T01:29:00.270Z",
+  "ip": "113.245.146.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Sic wivmuwe liomoga loafte pilracapi supe zejodut lav ikoiz sili oto eki jorij sa mizoz. Honuwrow bi so secjune sukvugke ik ezdo rerboso bewi reljobgu ko zed kum ba zu ifa. Goftiot hogalcuw ocnuwwer wakraplun ucjolil rama geg kiwom ow ditamep uzuni bubkukupu zealozib cangadici miv otiab miwushon. Kacujom kian co vut rujco kuz naw ujienepe node kekir fur tutlerig muv in. Abakuwpu to nupzeba sigser uzihupfi ki lijiploc omginiba mamopu bul lepleuce si kozceca gepabijiz zaziril ze pogesoli lefva. Hevgi ogsi fut su hogsavtur vog pit ku kobu se ki pu ihuj.",
+    "bio": "Goweb icowik jifur tunir dovjomil afzasimu dor wal ga tag jusep nus epe dam gapohba. Salzoknel ic ozwanuz abu vunbep jaademi obicik kaljekkaf kouzda po jewri edil. Ajetovwah zako ejulifim hamacum zedan avazowepi fuswuvo gi ka ife za unlow azi papevup jo jefabor."
+  },
+  "apiKey": "38a8ad50ae228de32c44c7b50dae6b25523eb54362a41093fea20ba0a8d44fcb",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
