@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Pena",
+  "age": 40,
+  "address": {
+    "street": "Amge Park",
+    "city": "Fuffelvaz",
+    "state": "NE",
+    "zip": "03795"
+  },
+  "contact": {
+    "phone": "(916) 605-8809",
+    "servicePhone": "800794853"
+  },
+  "birthday": "1980-02-27T07:37:35.872Z",
+  "ip": "22.168.249.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Un de duceda bojcuk vep inutieke wohguric cojegke nuplozfis rehariag ru vi ij keppoh. Nafuc ra sijzojcuv azhanu ro ocohi wal woujo ekugijguz mo go iwesi ja ophavec ja to sobomo bitrojaza. Nankac iba duv seroh mijip inici heg ehbu jim du hadoko mun komfu joga usepba. Coono fozu di heb ucibe soppi ze belnuggur fir setu nuscuttu ritkuvzos nuvifo. Wohwefti sajoklek zaki cuj puhajwi efic vaklu to wab ketagu medtizu celfanha ciabpet owi za. Ek cowga du kuh zufuopi pihra suezi so lanug av vos na guvoc nichiseb du osezucnok pu.",
+    "bio": "Ruot sok siavna izi diev lelkovov polul ilosi oj siluser hegahed va vognahwun. Wip nul je fapmocu jun vupetuij pu ucuco gial hov wucekafe te. Hag borbe neta legaklik isofu wabem curros kocosi vujo efugit olvap rehlinoc cu fa ileog. Tiwiz bomwima maje cosol wunisvak dadeazo kevsol epjo dek fin ogu tud zehezbe nipabju."
+  },
+  "apiKey": "0595c809069108c5e2be347761c138a69947371c79d158e00c5dd14992ac5070",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
