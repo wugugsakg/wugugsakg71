@@ -1,0 +1,26 @@
+{
+  "name": "Mae Wong",
+  "age": 30,
+  "address": {
+    "street": "Upsa Extension",
+    "city": "Fasiwjug",
+    "state": "ME",
+    "zip": "42107"
+  },
+  "contact": {
+    "phone": "(229) 702-1738",
+    "servicePhone": "800948888"
+  },
+  "birthday": "1983-01-28T12:34:29.728Z",
+  "ip": "250.154.8.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukase puslu izfik rovebom ek itegasa wohkom pi sigo liduldok ubewut bojred bowid cicegges. Wihikcik gohem to il jiasivak wuflofke je we me pihvaoc zotper ozoube emguz ji fufin eti wusugse tukurvej. Hu peil wiibaozi fumuw reuvi ajijakfop otciwju nacvo cawlophe ru ana amro teg zitulve.",
+    "bio": "Gibeca gigde lac lupiipu haitci oveiwi veffiw pefapuh cerawsof huvza getawup legiziz. Taocujan afuzulo zic bortiiz ije vigoc avo mug azkivkez li zul vocehfu di vohgu goume mihpezvi ziwsusih. Je edgaik iz nufhijo do opfav debuzede tetubep vikemuime zulfe nudvuh di paneca ucaju kanurfo abwilheh dojon zajneh. Daet oldemen tovedafo ge javafa azadook sas kike woko abu gomanif gak. Zivimo huk ezme fo emorinus ojanozu fokini rub leiwaku torbemca uk boj. Loz tiprusvaw ape ul maado zujohlej me nipji uzvugo oglukdov an itu gewgozmo pola hiwbacu tipo nofozu atmi."
+  },
+  "apiKey": "ba8a0459a6d237c52d17a3c160f7b1e9cb8e53f19bd63757634cfe2a0d6c4820",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
