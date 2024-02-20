@@ -1,0 +1,26 @@
+{
+  "name": "Steven Rodriguez",
+  "age": 25,
+  "address": {
+    "street": "Wozow Mill",
+    "city": "Botgutbov",
+    "state": "OR",
+    "zip": "38738"
+  },
+  "contact": {
+    "phone": "(422) 220-9463",
+    "servicePhone": "800368484"
+  },
+  "birthday": "1994-10-14T22:46:07.160Z",
+  "ip": "170.192.67.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Womwa zutrer bacsos vud keasogi zawja ruf bitose fiztag tabi ujod no penvi nozugoj. Serze kemwit tupkod delekalo naul izicein hu lidojif fajta wedafej notukep wefzic ebehi miwnufaj id nuvteneb. Ceano icamedra sortec fuvbe tig ohpi maiz ow aw wuv ze sewok cupif oc. Kukedese iz rubuh zut cozpate vuvmuas sajfuv wez pabermog atoheme sijutvuw bitodag zirachel.",
+    "bio": "Wencut he nagzoc boh ula hobcijcen watej nedesu oz gu accivfiz uceowi sorooh ho fina log tudhipu se. Gafen muf ajahafe wur sucji wegot uzi telickiz fun ipito zikol no kinrigte duhmi. Benoz copsirhov lultu eni powfelu kisimca wa pabgu fartup wipbizdi oga van jorosfig. Rofat cu odi luv fekenul operobon oh al ud ehlinata padwisis gu. Arone cafazce roanoaf fof tensa rurhigta fahhapdi lozohtu pe ledkac eke ci tekgekici hu. La ganwedoje juvo aji pizolni ulla ofo du ceaj lomo cuiti uhi higose hawazene."
+  },
+  "apiKey": "2851d11d8ef5351b0d624b6a5c5ce19f4fa20826dfc99f19ea9744fa58c2c7e3",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
