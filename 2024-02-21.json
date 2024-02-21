@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Roberts",
+  "age": 32,
+  "address": {
+    "street": "Ahotak Center",
+    "city": "Foslinaw",
+    "state": "NY",
+    "zip": "77870"
+  },
+  "contact": {
+    "phone": "(314) 801-4624",
+    "servicePhone": "800813228"
+  },
+  "birthday": "1975-02-03T09:57:01.917Z",
+  "ip": "187.178.85.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Evfam lowu hoh aferev focreika miwwug pubkalar gicinu idwib fatjikaz do zawavo. Ej ti suhes gu hilwim dicop gu zocoz kocloz dufa udijziv wif napnor tic tu. Epi ba awo el paf po vuwear hijiguci neihgeb tucojut girifi wa bisiah bebsavcu diczovzi zuv padak hi.",
+    "bio": "Useim musconfu mizger bipeja meje tu so picjusud so regze ahudaj dasec ogehop sekem rahu kaca wor tihmolum. Ijzoneg sobuw faj ro jefcom harum iluamikef ida pesuliwoh wenfevoc fi joj ubte heskepok ufitetoc veremso neuzivi kah. Su kipo wicak girobis siubmap enagut nis kabwisoj iviwivaj hodcum gugupu kut naslufkes bu."
+  },
+  "apiKey": "c25e52b2d84de48f48efba9992cc96d86d55586ab82e2a8853513d685c3179f4",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
