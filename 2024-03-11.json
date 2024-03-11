@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Foster",
+  "age": 27,
+  "address": {
+    "street": "Difvu View",
+    "city": "Hadrenve",
+    "state": "VT",
+    "zip": "25129"
+  },
+  "contact": {
+    "phone": "(315) 264-2502",
+    "servicePhone": "800174171"
+  },
+  "birthday": "1978-05-26T18:34:20.138Z",
+  "ip": "121.120.245.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Muwdasero hevuhfap ofhe jum gade fo noum ge la betzaj tazwi vo ihlurva jubdiwvi nam tuw edfepru. Jihfoh ofovuc efiar nehwavis amvo ibcikvi law ujijug okajer fisabij daiwolag fogewul wadfomgot cesgorwi keger iw fenumwu kane. Hapifa lok bulol vek foutabib ge dariob ha bumbapni tibaic mo nusme no zalotig pi aghuhac. Tokevuno ne numnowa cec oca nip sojhevsa gi ojo moicusot nut kopcipwu wo mupe ago uc bumsa. Cubad fu ijetizi nonucawu mofbugo la hiwoage hama seb hefinjov jinihtev da korwusput isujun. Ke wimur remnuz jumwitcas vopuj buketic jocgektar fiutnom je rilamzuh wu nad gip vuubegap nerdavsoz oku jonoki abugahnoh.",
+    "bio": "Kolimuas zo ofic bi dit dolan udizu jaj caicno ril dod saj. Begcive ne girsifrig nuhirub rilpo di egifinu idubozru seniboika ut nevicaf ralbi. Cepi suwig gaikohu inuzar urijic varkabi ranzubi ewijbad tu huwfafnu jobebcak wotulade ni. Gu get uruukuiz naj iku wucdif ruh nezboga ubid ta sa lepiwjoh ki ciwepupew gavidi. Lale gofiho werce ligupgud naf eweguz emihiga ihselun boje uznodat dab paruav popabu. Puv sebabsin nuhu ro nem bag ovvet pa lu totebe mubzi enejitut piz. Ovvogdon ire ve liuvgo uku wes bobzuz fepu didawidu owugeoj ana dudooja tu melwu."
+  },
+  "apiKey": "cf09fc3bc727890e03de18cea6341737606aa862ad164d4c329587abbce7f400",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
