@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Becker",
+  "age": 34,
+  "address": {
+    "street": "Jawso Manor",
+    "city": "Ihaegoog",
+    "state": "AZ",
+    "zip": "14239"
+  },
+  "contact": {
+    "phone": "(652) 346-1161",
+    "servicePhone": "800951129"
+  },
+  "birthday": "1964-07-14T21:45:47.830Z",
+  "ip": "228.194.255.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Jakic papuri zem te pe ruoj tepolmug dow uma aji tofojelo ca zokzinuc seevnu. Wakwu komun buludi desinet abekejeh fut gelasa jaw cavpuggo fi waazo mizakcu ah ungivce gug rik mapgug bibcic. Lec ce wemitob ja bijidti odadaopo buwobade kioked ko zi ti zad. Fari pavrulici eru ifiki epireca li um unu zotgaz ze mu ro ed cokpoegu kuzaj go sulkij.",
+    "bio": "Tonnezod maz wamuc jajiwpuv tikdanu fupiv etaene kirno bufat cabsonij ov levgefcab. Pata olevove seehedur medfef noonlo pa aje kestekfu olpekdu una mo fecasa tatecabu tofkueb lokaj hocki. Ofwim do elu bur fe mekzal cazwab telninas eg oh uftutzuh bini akugutov."
+  },
+  "apiKey": "f8bef4a115ccba8de36a15bee8b8672c082005cfdd262c1e6654edce9313c870",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
