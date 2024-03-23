@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Wright",
+  "age": 55,
+  "address": {
+    "street": "Nivul Glen",
+    "city": "Vehiriz",
+    "state": "NY",
+    "zip": "97649"
+  },
+  "contact": {
+    "phone": "(423) 663-8395",
+    "servicePhone": "800142943"
+  },
+  "birthday": "2002-12-23T08:26:14.547Z",
+  "ip": "41.56.246.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Bod kama sawmam zalgor gubdu wadzer civdalun wevleeh cif naca maeb komu li jufetsin rok. Gapa fape hip babjodzud imuuta fen fu bafuv jow hulol adejaan cemu joecu vulona jiocfum tel ziovenok. Raaz ahocaz ehdi erovu oko pein divisa he hapefo iluki dal wadirro edeba lehkuhju og gizcoz ka esmejwuw. Hi ajvem ji imuloh zeluwig pev ifo fened bovabal motgognet nu wow zokkal hepjuke. Siakokir tufrisviz vogiv zif gahe waufu udetuuz muurpe peghocol mahbaju de cawdewe levoj ana. Ibfo jiujlin coccuw amadugob viw wiup guruwele sa ep liba wipfe dolejik no wejnu abiteok jobit fude el.",
+    "bio": "Wip zaesa hi riosa ni os zeluufe posug foldutko sukil lilobfiv zobesek kivo avemari sa. Kaehejo ce gewaih lokot lupkicpe wa vu ope gopwehid be vorde kidenos gumoz soz mubakat bodpekzi ro. Iz ugsor te ubraksi viszem mebijep otsouve voza dogvubepa te fedaf suwdo viad. Otaiwi but wi olihi agu ogwemuk wubrinmer utcib wuteflon vil ipedam bu mel cateb unove rujiv tidnuca behtebnaf."
+  },
+  "apiKey": "376b02ffb2bfe153c964099eb0762dd8ce40571c7e9f41092512c9780720035f",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
