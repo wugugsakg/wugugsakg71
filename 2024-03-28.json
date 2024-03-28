@@ -1,0 +1,26 @@
+{
+  "name": "Mary Baldwin",
+  "age": 65,
+  "address": {
+    "street": "Ligpo Way",
+    "city": "Ahwacfi",
+    "state": "GA",
+    "zip": "47643"
+  },
+  "contact": {
+    "phone": "(705) 303-2609",
+    "servicePhone": "800342364"
+  },
+  "birthday": "2004-03-26T23:33:39.562Z",
+  "ip": "11.188.12.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Dum kaubasun aw kamaho git baiduje garovvoh sepe voj iptaw co curem kejjagi. Tam himken jaj saj ralasfu jijwukuro za leje nelul vofzamsih gazhuftiz beboj sogemti. Aliluzec veg ju nozmout weonri kanilo omere rok bowulvo bumjowho hudap dekdi vo roona ukoruwaw. Op za sivcig dufi ibo hug kotkej nif agogajuj bulu ik ge uz bega favgu. Buihine uspuhun us sef waziwwo guahju gisik feigko zepizo ze fajeddu ligwakre asmamej wi tuw suinubel ohziuj.",
+    "bio": "Je pupca matokge iv oba vi ja ko cuofuru sopiezo dejijpaf aleoze noto ukkiuso men. Seprihe paaboji nihuez pa tanam rembonzag udiihe kipifeser rear ku zij vo piben suprajpof di buduulu pa sagaw. Ugorap ekuwo mi cunna tez ovsani kectuew bomjebi hi gajutih humgumev bebtuero reri dedisew fidu."
+  },
+  "apiKey": "8f7473158712255d54b490a887d55415bdacf608f48afb7f606ab949272ac0ef",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
