@@ -1,0 +1,26 @@
+{
+  "name": "Frederick Kelly",
+  "age": 22,
+  "address": {
+    "street": "Kura Street",
+    "city": "Luudsi",
+    "state": "IN",
+    "zip": "64798"
+  },
+  "contact": {
+    "phone": "(440) 539-7541",
+    "servicePhone": "800424512"
+  },
+  "birthday": "1979-05-14T15:33:38.836Z",
+  "ip": "146.157.39.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Ij lejobwin polazan wudkape gibnat efu sog cekab supazri hek ogleago juhejru be pu ca notad nibgivoro we. Oriw falo sordaplu morze va sa hudmile et mowuuto le ba effu gek ret juizdo puroub. Onuini zo sojpagewo atan umepa kushevben rubriheb vaur newukgaj liahikik vak tujuga mo upa ivoriwi.",
+    "bio": "Niva zap piepi ezru agi oziku bebdepha ziv bo hijubo varuwuk logrujuf. Zi muvak vagabbu pella carituiv jiz hizu cewid pupdi anu nat niwcirvu zijjaf mihlordo jojvunvuk ephauka. Re nibmibec zal fah veknige waferda wica fo urili odopihow meukba meddo vik ezeju za mo siipo ko. Niapueke nivzephib suow zin beob wanakel gupu uzuado cobhituj dedwaffuz bef ubgubce we wuc hudeepu ikamuja sih."
+  },
+  "apiKey": "1abd6fffda983207e6fecb4c7c27f897557871ae69a001330de9787403f1293c",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
